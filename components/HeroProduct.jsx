@@ -34,7 +34,7 @@ const heroProducts = [
     cardDescription: "Versatile and popular choice in the world of woodworking",
     url:"/products/plywood/commercialplywood",
     cardContent:
-      "Birch plywood's adaptability, strength, and attractive appearance make it an excellent choice for a wide array of applications in woodworking, construction, and design. Its versatility and reliability have made it a staple material for both professionals and hobbyists alike.",
+      "Commercial plywood's adaptability, strength, and attractive appearance make it an excellent choice for a wide array of applications in woodworking, construction, and design. Its versatility and reliability have made it a staple material for both professionals and hobbyists alike.",
       productDetails:{
         size:"1220X2440mm/1250x2500mm, jumbo size,4'x9',4'x8',4'x12' customizable",
         thickness:"2.0-30mm(±05.mm)",
