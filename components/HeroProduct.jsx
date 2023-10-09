@@ -10,7 +10,7 @@ const heroProducts = [
   {
     urlLg: desktopFilmPly,
     urlMoble: mobileFilmPly,
-    title: "Phenolic Film Faced Plywood",
+    title: "Film Faced Plywood",
     cardDescription: "Designed for formwork and shuttering",
     url:"/products/plywood/filmfacedplywood",
     cardContent:
