@@ -3,6 +3,7 @@ import Container from "@/components/Container";
 import certs from "/public/images/certs1-min.jpg";
 import Image from "next/image";
 import { Button } from "@/components/ui/button";
+import Link from "next/link";
 const page = () => {
   return (
     <div>
@@ -13,11 +14,13 @@ const page = () => {
       </div>
       <Container>
         <div className="flex flex-col gap-10">
-          <div >
+          <div>
             <h2 className="scroll-m-20 text-2xl font-semibold tracking-tight pb-8">
               Product Catalogue(PDF)
             </h2>
-            <Button variant="link">Click here to download</Button>
+            <Link href={"https://shorus-plywood.s3.eu-west-2.amazonaws.com/Shorus+Product+Profile+.pptx"} >
+              <Button variant="link">Click here to download</Button>
+            </Link>
           </div>
           <div>
             <h2 className="scroll-m-20 text-2xl font-semibold tracking-tight">
